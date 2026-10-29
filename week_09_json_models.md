@@ -26,16 +26,22 @@
   "events": [
     {
       "event_id": 5005,
+      "ticket_id": 1003,
+      "actor_id": 103,
       "event_type": "created",
       "event_at": "2026-02-03T12:05:00Z"
     },
     {
       "event_id": 5006,
+      "ticket_id": 1003,
+      "actor_id": 201,
       "event_type": "status_changed",
       "event_at": "2026-02-03T14:25:00Z"
     },
     {
       "event_id": 5007,
+      "ticket_id": 1003,
+      "actor_id": 201,
       "event_type": "status_changed",
       "event_at": "2026-02-03T19:40:00Z"
     }
